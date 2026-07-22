@@ -1,0 +1,8 @@
+# Only the launcher (bin/vibeperks-terminal) is committed. Binaries live in the
+# GitHub Release and are downloaded/built on first use, never committed.
+vibeperks-terminal.real
+vibeperks-terminal.real.download.*
+# Local copy the Windows installer makes / downloads.
+vibeperks-terminal.exe
+# Cross-compiled distribution binaries (published to the GitHub Release).
+vibeperks-terminal-*
